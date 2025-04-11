@@ -2,6 +2,7 @@ def calculate_salary(hours_worked, hourly_rate, deductions):
     """
     Calculates gross and net salary based on hours worked, hourly rate, and deductions.
     
+    
     Args:
         hours_worked (int): Number of hours worked.
         hourly_rate (float): Rate per hour.
